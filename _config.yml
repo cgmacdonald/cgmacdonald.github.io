@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cameron G MacDonald"
   avatar           : "IMG_0635.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student in Atmospheric and Oceanic Sciences at Princeton University"
   location         : "Princeton, NJ"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=f-4KnHUAAAAJ&hl=en"
-  email            :
+  email            : "cgm3@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
