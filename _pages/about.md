@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Me PhD student. work hard. Me do atmospheric dynamics
+
+I am a second-year Ph.D. student in the Program in Atmospheric and Oceanic Science at Princeton University. My main area of interest is in large scale atmospheric dynamics, with a focus on tropical phenomenon such as the convectively-coupled equatorial waves and the Madden-Julian Oscillation. I previously received my bachelor's degree in 2020 from the University of Waterloo, in Waterloo, Ontario, where my focus was on mathematical physics.
 
 This is a title
 ======
