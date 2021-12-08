@@ -45,5 +45,6 @@ Research Experience
   * Convectively-coupled equatorial waves and the Madden Julian Oscillation
   * Equatorial superrotation
   * Advisor: Dr. Yi Ming
+  * Committee Members: Dr. Isaac Held & Dr. Steve Garner
   
 
