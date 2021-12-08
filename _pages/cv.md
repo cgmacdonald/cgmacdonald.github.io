@@ -45,17 +45,5 @@ Work experience
   * Convectively-coupled equatorial waves and the Madden Julian Oscillation
   * Equatorial superrotation
   * Advisor: Dr. Yi Ming
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 
