@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* B.Sc. in Mathematical Physics, University of Waterloo, 2020
+* M.A. in Atmospheric and Oceanic Science, Princeton University, 2022 (Expected)
+* Ph.D in Atmospheric and Oceanic Science, Princeton University, 2025 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2017 - April 2018: Research Assistant
+  * Environment and Climate Change Canada, Climate Research Division
+  * Satellite observations of coal-fired power plant plumes
+  * Supervisor: Dr. Ray Nassar
+
+* September 2018 - December 2018: Research Assistant
+  * Environment and Climate Change Canada, Climate Research Division
+  * High latitude observations of atmospheric CO2
+  * Supervisor: Dr. Ray Nassar
+
+* May 2019 - August 2019: Research Assistant
+  * University of Toronto, Department of Physics
+  * Satellite observations of anthropogenic GHGs and pollutants over megacities
+  * Mobile measurements of urban methane sources
+  * Supervisor: Prof. Debra Wunch
+
+* May 2020 - August 2020: Research Assistant
+  * University of Toronto, Department of Physics
+  * Satellite observations of anthropogenic GHGs and pollutants over megacities
+  * Supervisor: Prof. Debra Wunch
+
+* August 2020 - Present: Ph.D Candidate
+  * Princeton University, Program in Atmospheric and Oceanic Sciences
+  * Convectively-coupled equatorial waves and the Madden Julian Oscillation
+  * Equatorial superrotation
+  * Advisor: Dr. Yi Ming
 
 Publications
 ======
@@ -48,12 +58,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
