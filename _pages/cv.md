@@ -16,7 +16,7 @@ Education
 * M.A. in Atmospheric and Oceanic Science, Princeton University, 2022 (Expected)
 * Ph.D in Atmospheric and Oceanic Science, Princeton University, 2025 (Expected)
 
-Work experience
+Research Experience
 ======
 
 * September 2017 - April 2018: Research Assistant
