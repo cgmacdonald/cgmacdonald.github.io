@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cameron G MacDonald"
+title: "Cameron (Cam) G MacDonald"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
