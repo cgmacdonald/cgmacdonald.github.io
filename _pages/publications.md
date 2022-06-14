@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+2022
+---
+
+MacDonald, C.G., Ming, Y. (2022) Tropical Intraseasonal Variability Response to Zonally Asymmetric Forcing in an Idealized Moist GCM. Submitted to Journal of Climate. [[Pre-print]](https://www.essoar.org/doi/abs/10.1002/essoar.10511343.1)
+
 2021
 ---
 
