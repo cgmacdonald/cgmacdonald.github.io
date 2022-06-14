@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+AOFD 2022
+---
+
+MacDonald, C.G. & Ming, Y. (2022, June). Tropical Intraseasonal Variability Response to Zonally Asymmetric Forcing in an Idealized Moist GCM. In 23rd Conference on Atmospheric and Oceanic Fluid Dynamics. AMS.
+
 AGU 2020
 ---
 
