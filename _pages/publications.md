@@ -8,9 +8,9 @@ author_profile: true
 2022
 ---
 
-MacDonald, C. G., Laughner, J. L., Hedelius, J. K., Nassar, R., Mastrogiacomo, J. P., & Wunch, D. (2022) Estimating Enhancement Ratios of Nitrogen Dioxide, Carbon Monoxide, and Carbon Dioxide using Satellite Observations. Submitted to Atmospheric Chemistry and Physics.
+MacDonald, C. G., Laughner, J. L., Hedelius, J. K., Nassar, R., Mastrogiacomo, J. P., & Wunch, D. (2022) Estimating Enhancement Ratios of Nitrogen Dioxide, Carbon Monoxide, and Carbon Dioxide using Satellite Observations. Accepted to Atmospheric Chemistry and Physics.
 
-MacDonald, C. G., & Ming, Y. (2022) Tropical Intraseasonal Variability Response to Zonally Asymmetric Forcing in an Idealized Moist GCM. Submitted to Journal of Climate. [[Pre-print]](https://www.essoar.org/doi/abs/10.1002/essoar.10511343.1)
+MacDonald, C. G., & Ming, Y. (2022) Tropical Intraseasonal Variability Response to Zonally Asymmetric Forcing in an Idealized Moist GCM. Journal of Climate, 35 (24), 4479-4501. [[Journal Link]](https://doi.org/10.1175/JCLI-D-22-0344.1)
 
 2021
 ---
