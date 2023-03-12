@@ -13,7 +13,7 @@ Education
 ======
 
 * B.Sc. in Mathematical Physics, University of Waterloo, 2020
-* M.A. in Atmospheric and Oceanic Science, Princeton University, 2022 (Expected)
+* M.A. in Atmospheric and Oceanic Science, Princeton University, 2022
 * Ph.D in Atmospheric and Oceanic Science, Princeton University, 2025 (Expected)
 
 Research Experience
@@ -22,6 +22,7 @@ Research Experience
 * September 2017 - April 2018: Research Assistant
   * Environment and Climate Change Canada, Climate Research Division
   * Satellite observations of coal-fired power plant plumes
+  * Sources of bias in satellite observations of CO2
   * Supervisor: Dr. Ray Nassar
 
 * September 2018 - December 2018: Research Assistant
