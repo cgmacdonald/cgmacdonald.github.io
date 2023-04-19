@@ -5,6 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+AGU 2022
+---
+
+MacDonald C.G. & Ming, Y. (2022, December). Tropical Intraseasonal Variability Response to Zonally Asymmetric Forcing in an Idealized Moist GCM. In AGU Fall Meeting 2022. AGU.
+
+Modeling Hierarchies Workshop 2022
+---
+
+MacDonald, C.G. & Ming, Y. (2022, August). Modeling Tropical Intrseasonal Oscillations in an Idealized GCM with a Simple Convection Scheme. In 2nd Modeling Hierarchies Workshop. 
+
 AOFD 2022
 ---
 
