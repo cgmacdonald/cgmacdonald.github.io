@@ -8,6 +8,8 @@ author_profile: true
 2023
 ---
 
+MacDonald, C. G. (2023) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Submitted to Quarterly Journal of the Royal Meteorological Society [[Preprint]](https://essopenarchive.org/users/547265/articles/642142-absolute-instability-of-moisture-coupled-waves-on-the-equatorial-beta-plane)
+
 MacDonald, C. G., Laughner, J. L., Hedelius, J. K., Nassar, R., Mastrogiacomo, J. P., & Wunch, D. (2023) Estimating Enhancement Ratios of Nitrogen Dioxide, Carbon Monoxide, and Carbon Dioxide using Satellite Observations. Atmospheric Chemistry and Physics, 23, 3493-3516. [[Journal Link]](https://acp.copernicus.org/articles/23/3493/2023/)
 
 2022
