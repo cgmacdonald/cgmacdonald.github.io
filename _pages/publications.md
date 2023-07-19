@@ -10,6 +10,8 @@ author_profile: true
 
 MacDonald, C. G. (2023) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Submitted to Quarterly Journal of the Royal Meteorological Society [[Preprint]](https://essopenarchive.org/users/547265/articles/642142-absolute-instability-of-moisture-coupled-waves-on-the-equatorial-beta-plane)
 
+Zurita-Gotor, P., Held, I. M., Merlis, T. M., Chang, C.Y., Hill, S. A., & MacDonald, C. G. (2023) Non-uniqueness of ITCZ latitude due to radiation-circulation coupling in an idealized GCM. Submitted to Journal of Advances in Modeling the Earth System [[Pre-print]](https://www.authorea.com/doi/full/10.22541/essoar.168121407.72465154)
+
 MacDonald, C. G., Laughner, J. L., Hedelius, J. K., Nassar, R., Mastrogiacomo, J. P., & Wunch, D. (2023) Estimating Enhancement Ratios of Nitrogen Dioxide, Carbon Monoxide, and Carbon Dioxide using Satellite Observations. Atmospheric Chemistry and Physics, 23, 3493-3516. [[Journal Link]](https://acp.copernicus.org/articles/23/3493/2023/)
 
 2022
