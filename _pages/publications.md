@@ -10,7 +10,9 @@ author_profile: true
 
 MacDonald, C. G. (2023) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Submitted to Quarterly Journal of the Royal Meteorological Society [[Preprint]](https://essopenarchive.org/users/547265/articles/642142-absolute-instability-of-moisture-coupled-waves-on-the-equatorial-beta-plane)
 
-Zurita-Gotor, P., Held, I. M., Merlis, T. M., Chang, C.Y., Hill, S. A., & MacDonald, C. G. (2023) Non-uniqueness of ITCZ latitude due to radiation-circulation coupling in an idealized GCM. Submitted to Journal of Advances in Modeling the Earth System [[Pre-print]](https://www.authorea.com/doi/full/10.22541/essoar.168121407.72465154)
+Nassar, R., MacDonald C. G., Kuwuhara, B., Fogal A., Issa, J., Girmenia, A., Khan, S., Sioris, C. E. (2023) Intelligent Pointing increases the fraction of cloud-free CO2 and CH4 observations from space. Accepted to Frontiers in Remote Sensing. 
+
+Zurita-Gotor, P., Held, I. M., Merlis, T. M., Chang, C.Y., Hill, S. A., & MacDonald, C. G. (2023) Non-uniqueness of ITCZ latitude due to radiation-circulation coupling in an idealized GCM. Journal of Advances in Modeling Earth Systems, 15, e2023MS003736. [[Journal Link]](https://doi.org/10.1029/2023MS003736)
 
 MacDonald, C. G., Laughner, J. L., Hedelius, J. K., Nassar, R., Mastrogiacomo, J. P., & Wunch, D. (2023) Estimating Enhancement Ratios of Nitrogen Dioxide, Carbon Monoxide, and Carbon Dioxide using Satellite Observations. Atmospheric Chemistry and Physics, 23, 3493-3516. [[Journal Link]](https://acp.copernicus.org/articles/23/3493/2023/)
 
