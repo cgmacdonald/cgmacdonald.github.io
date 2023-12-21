@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+AGU 2023
+---
+
+MacDonald, C. G. (2023, December) Sensitivity of Convectively Coupled Equatorial Waves to Surface Properties in an Idealized Moist GCM. In AGU Fall Meeting 2023. AGU.
+
 CFMIP 2023
 ---
 
