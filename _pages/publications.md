@@ -10,7 +10,7 @@ author_profile: true
 
 MacDonald, C. G., Zurita-Gotor, P., Held, I. M., Ming, Y. (2024) Convectively-coupled global Rossby modes in an idealized moist GCM. Submitted to Journal of the Atmospheric Sciences. 
 
-MacDonald, C. G. (2024) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Accepted in Quarterly Journal of the Royal Meteorological Society [[Preprint]](https://essopenarchive.org/users/547265/articles/642142-absolute-instability-of-moisture-coupled-waves-on-the-equatorial-beta-plane)
+MacDonald, C. G. (2024) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Quarterly Journal of the Royal Meteorological Society [[Journal Link]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4728)
 
 2023
 ---
