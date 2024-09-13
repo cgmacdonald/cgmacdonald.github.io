@@ -5,6 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+AOFD 2024
+---
+
+MacDonald, C. G. (2024, June) Absolute Instability of Moisture-Coupled Waves on the Equatorial Beta-Plane. In 24th Conference on Atmospheric and Oceanic Fluid Dynamics. AMS. 
+
+CFMIP 2024
+---
+
+MacDonald, C. G., Zurita-Gotor, P., Held, I. M., & Ming, Y. (2024, June) Convectively-Coupled Global Rossby Modes in an Idealized Moist GCM. In CFMIP Annual Meeting 2024. 
+
 AGU 2023
 ---
 
