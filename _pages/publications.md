@@ -5,17 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+2025
+---
+
+Mastrogiacomo, J. P., Crippa, M., MacDonald, C. G., Roehl, C., & Wunch, D. (2025) Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Submitted to Journal of Geophysical Research: Atmospheres [[Preprint]](https://essopenarchive.org/users/811547/articles/1261623-estimating-urban-ch4-emissions-from-satellite-derived-enhancement-ratios-of-ch4-co2-and-co?commit=12282fdb6d6f1fd9e343816d1afbdf69c0245048)
+
 2024
 ---
 
-MacDonald, C. G., Zurita-Gotor, P., Held, I. M., Ming, Y. (2024) Convectively-coupled global Rossby modes in an idealized moist GCM. Submitted to Journal of the Atmospheric Sciences. 
+MacDonald, C. G., Zurita-Gotor, P., Held, I. M., & Ming, Y. (2024) Convectively-coupled global Rossby modes in an idealized moist GCM. Journal of the Atmospheric Sciences [[Journal Link]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0081.1/JAS-D-24-0081.1.xml). 
 
 MacDonald, C. G. (2024) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Quarterly Journal of the Royal Meteorological Society [[Journal Link]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4728)
 
 2023
 ---
 
-Nassar, R., MacDonald C. G., Kuwuhara, B., Fogal A., Issa, J., Girmenia, A., Khan, S., Sioris, C. E. (2023) Intelligent Pointing increases the fraction of cloud-free CO2 and CH4 observations from space. Frontiers in Remote Sensing, 4 [[Journal Link]](http://links.email.frontiersin.org/ls/click?upn=Dpg5ochww630xh6EMvshS4k2vZe-2Fd8MH-2FVpzt1-2FUQD91C-2FNL5bIclwWnNjv5HD9iYJA2gUyaIEvEp12cSym8zRNSO0gZbTDGP8CKj01KDOIh5CRsK6-2F09CRFJ-2BHwVzChlOArbWlzoJ-2BlOsP7AqMI9vsRtxOvWYRhTQaDmwtO9WQ1rEpLmLS44Zx3BbV55gqinAQoS8Uw3mh4LE7tWk0Cs5FwqrMin1raJciSA57yQkjih-2F8op7OBbEwSlLz-2BeX3TQ5t4v6xxNiAe8-2B5OOo6iDL3xxlHX1I3-2Fbe1h5mS1MZhCoguNiUlQ8pf4qEav1gmglV2qsVFN5DhP5nezR3Sm6Q-3D-3DP9am_ImkZ3ca3-2BCXvv2ng-2BaAYRnnpZpDvERELpC-2B4am7J9h-2FWp53udzps3Gls48O01AK6-2F-2Byd0qlbx1lc01zdTsozavMmx8AsU1rKrw44UyvK4Adjf9ZlYNoIoYJRIwGezsPH10HazaoophuYIuNGNWyGAl-2BVTv06wEhZvZTqflsCk4XSUx4E3QDsY6nvnxKsdeF-2F1pHH1-2BVBe7tJLcWitydNebaRvhUd-2Bk5FkdIBq-2B4UcfOBjQRH42RxA-2BHCDTDl3vBdze2p-2BbsTFwb4UJHS9ctUcaJ9EEjQBTFAF8VoRLQPCJZ8Y8pqFyr9OHoO3Cxol90zxcYGLv6hc0FeXdzc5BKxeg-3D-3D). 
+Nassar, R., MacDonald C. G., Kuwuhara, B., Fogal A., Issa, J., Girmenia, A., Khan, S., & Sioris, C. E. (2023) Intelligent Pointing increases the fraction of cloud-free CO2 and CH4 observations from space. Frontiers in Remote Sensing, 4 [[Journal Link]](http://links.email.frontiersin.org/ls/click?upn=Dpg5ochww630xh6EMvshS4k2vZe-2Fd8MH-2FVpzt1-2FUQD91C-2FNL5bIclwWnNjv5HD9iYJA2gUyaIEvEp12cSym8zRNSO0gZbTDGP8CKj01KDOIh5CRsK6-2F09CRFJ-2BHwVzChlOArbWlzoJ-2BlOsP7AqMI9vsRtxOvWYRhTQaDmwtO9WQ1rEpLmLS44Zx3BbV55gqinAQoS8Uw3mh4LE7tWk0Cs5FwqrMin1raJciSA57yQkjih-2F8op7OBbEwSlLz-2BeX3TQ5t4v6xxNiAe8-2B5OOo6iDL3xxlHX1I3-2Fbe1h5mS1MZhCoguNiUlQ8pf4qEav1gmglV2qsVFN5DhP5nezR3Sm6Q-3D-3DP9am_ImkZ3ca3-2BCXvv2ng-2BaAYRnnpZpDvERELpC-2B4am7J9h-2FWp53udzps3Gls48O01AK6-2F-2Byd0qlbx1lc01zdTsozavMmx8AsU1rKrw44UyvK4Adjf9ZlYNoIoYJRIwGezsPH10HazaoophuYIuNGNWyGAl-2BVTv06wEhZvZTqflsCk4XSUx4E3QDsY6nvnxKsdeF-2F1pHH1-2BVBe7tJLcWitydNebaRvhUd-2Bk5FkdIBq-2B4UcfOBjQRH42RxA-2BHCDTDl3vBdze2p-2BbsTFwb4UJHS9ctUcaJ9EEjQBTFAF8VoRLQPCJZ8Y8pqFyr9OHoO3Cxol90zxcYGLv6hc0FeXdzc5BKxeg-3D-3D). 
 
 Zurita-Gotor, P., Held, I. M., Merlis, T. M., Chang, C.Y., Hill, S. A., & MacDonald, C. G. (2023) Non-uniqueness of ITCZ latitude due to radiation-circulation coupling in an idealized GCM. Journal of Advances in Modeling Earth Systems, 15, e2023MS003736. [[Journal Link]](https://doi.org/10.1029/2023MS003736)
 
