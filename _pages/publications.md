@@ -8,12 +8,14 @@ author_profile: true
 2025
 ---
 
+MacDonald, C. G., & Ming, Y. (2025) On the influence of surface friction on the Madden-Julian Oscillation. Submitted to the Journal of Climate. [[Preprint]](https://essopenarchive.org/users/547265/articles/1278466-on-the-influence-of-surface-friction-on-the-madden-julian-oscillation)
+
 Mastrogiacomo, J. P., Crippa, M., MacDonald, C. G., Roehl, C., & Wunch, D. (2025) Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Submitted to Journal of Geophysical Research: Atmospheres [[Preprint]](https://essopenarchive.org/users/811547/articles/1261623-estimating-urban-ch4-emissions-from-satellite-derived-enhancement-ratios-of-ch4-co2-and-co?commit=12282fdb6d6f1fd9e343816d1afbdf69c0245048)
+
+MacDonald, C. G., Zurita-Gotor, P., Held, I. M., & Ming, Y. (2025) Convectively-coupled global Rossby modes in an idealized moist GCM. Journal of the Atmospheric Sciences, 82 (2), 319-341. [[Journal Link]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0081.1/JAS-D-24-0081.1.xml). 
 
 2024
 ---
-
-MacDonald, C. G., Zurita-Gotor, P., Held, I. M., & Ming, Y. (2024) Convectively-coupled global Rossby modes in an idealized moist GCM. Journal of the Atmospheric Sciences [[Journal Link]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0081.1/JAS-D-24-0081.1.xml). 
 
 MacDonald, C. G. (2024) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Quarterly Journal of the Royal Meteorological Society [[Journal Link]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4728)
 
