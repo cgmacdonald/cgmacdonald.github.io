@@ -17,7 +17,7 @@ MacDonald, C. G., Zurita-Gotor, P., Held, I. M., & Ming, Y. (2025) Convectively-
 2024
 ---
 
-MacDonald, C. G. (2024) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Quarterly Journal of the Royal Meteorological Society [[Journal Link]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4728)
+MacDonald, C. G. (2024) Absolute instability of moisture-coupled waves on the equatorial beta-plane. Quarterly Journal of the Royal Meteorological Society, 150 (762), 2667-2689. [[Journal Link]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4728)
 
 2023
 ---
