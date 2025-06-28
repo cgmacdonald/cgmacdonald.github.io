@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+AGU 2024
+---
+
+MacDonald, C. G. (2024, December) Absolute Instability of Moisture-Coupled Waves on the Equatorial Beta-Plane. In AGU Fall Meeting 2024. AMS.
+
 AOFD 2024
 ---
 
