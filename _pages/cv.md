@@ -14,7 +14,7 @@ Education
 
 * B.Sc. in Mathematical Physics, University of Waterloo, 2020
 * M.A. in Atmospheric and Oceanic Science, Princeton University, 2022
-* Ph.D in Atmospheric and Oceanic Science, Princeton University, 2025 (Expected)
+* Ph.D in Atmospheric and Oceanic Science, Princeton University, 2025
 
 Research Experience
 ======
@@ -41,16 +41,21 @@ Research Experience
   * Satellite observations of anthropogenic GHGs and pollutants over megacities
   * Supervisor: Prof. Debra Wunch
 
-* August 2020 - Present: Ph.D Candidate
+* August 2020 - June 2025: Ph.D Candidate
   * Princeton University, Program in Atmospheric and Oceanic Sciences
   * Convectively-coupled equatorial waves and the Madden Julian Oscillation
   * Equatorial superrotation
   * Advisor: Dr. Yi Ming
-  * Committee Members: Dr. Isaac Held & Dr. Steve Garner
+  * Committee Members: Dr. Leo Donner & Dr. Steve Garner
+ 
+* September 2025 - Present: Environmental Fellow
+  * Harvard University, Harvard University Center for the Environment
+  * Hadley Cell and ITCZ dynamics
+  * Advisor: Prof. Zhiming Kuang
  
 Professional Experience
 ======
 
-Journal Reviewer - Geophysical Research Letters, Journal of the Atmospheric Sciences, Weather and Climate Dynamics
+Journal Reviewer - Geophysical Research Letters, Journal of the Atmospheric Sciences, Weather and Climate Dynamics, Journal of Climate
   
 
