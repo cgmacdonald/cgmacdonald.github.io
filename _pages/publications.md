@@ -8,7 +8,7 @@ author_profile: true
 2025
 ---
 
-MacDonald, C. G., & Ming, Y. (2025) On the influence of surface friction on the Madden-Julian Oscillation. Submitted to the Journal of Climate. [[Preprint]](https://essopenarchive.org/users/547265/articles/1278466-on-the-influence-of-surface-friction-on-the-madden-julian-oscillation)
+MacDonald, C. G., & Ming, Y. (2025) A dynamical transition between Rossby modes and the MJO in an idealized GCM. Submitted to the Journal of Climate. [[Preprint]](https://essopenarchive.org/users/547265/articles/1278466-on-the-influence-of-surface-friction-on-the-madden-julian-oscillation)
 
 Mastrogiacomo, J. P., Crippa, M., MacDonald, C. G., Roehl, C., & Wunch, D. (2025) Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Submitted to Journal of Geophysical Research: Atmospheres [[Preprint]](https://essopenarchive.org/users/811547/articles/1261623-estimating-urban-ch4-emissions-from-satellite-derived-enhancement-ratios-of-ch4-co2-and-co?commit=12282fdb6d6f1fd9e343816d1afbdf69c0245048)
 
