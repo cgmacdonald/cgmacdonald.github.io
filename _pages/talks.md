@@ -5,10 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
+AGU 2025
+---
+
+MacDonald, C. G., & Ming, Y. (2025, December) A dynamical transition between Rossby modes and the MJO in an idealized GCM. In AGU Fall Meeting 2025. AGU. 
+
 AGU 2024
 ---
 
-MacDonald, C. G. (2024, December) Absolute Instability of Moisture-Coupled Waves on the Equatorial Beta-Plane. In AGU Fall Meeting 2024. AMS.
+MacDonald, C. G. (2024, December) Absolute Instability of Moisture-Coupled Waves on the Equatorial Beta-Plane. In AGU Fall Meeting 2024. AGU.
 
 AOFD 2024
 ---
