@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+---
+
+MacDonald, C. G., & Ming, Y. (2025) A dynamical transition between Rossby modes and the MJO in an idealized GCM. Journal of Climate, 39 (8), 1857-1879. [[Journal Link]](https://journals.ametsoc.org/view/journals/clim/39/8/JCLI-D-25-0148.1.xml)
+
 2025
 ---
 
-MacDonald, C. G., & Ming, Y. (2025) A dynamical transition between Rossby modes and the MJO in an idealized GCM. Submitted to the Journal of Climate. [[Preprint]](https://essopenarchive.org/users/547265/articles/1278466-on-the-influence-of-surface-friction-on-the-madden-julian-oscillation)
-
-Mastrogiacomo, J. P., Crippa, M., MacDonald, C. G., Roehl, C., & Wunch, D. (2025) Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Submitted to Journal of Geophysical Research: Atmospheres [[Preprint]](https://essopenarchive.org/users/811547/articles/1261623-estimating-urban-ch4-emissions-from-satellite-derived-enhancement-ratios-of-ch4-co2-and-co?commit=12282fdb6d6f1fd9e343816d1afbdf69c0245048)
+Mastrogiacomo, J. P., Crippa, M., MacDonald, C. G., Roehl, C., & Wunch, D. (2025) Estimating Urban CH4 Emissions from Satellite-Derived Enhancement Ratios of CH4, CO2, and CO. Journal of Geophysical Research: Atmospheres, 130 (13) e2025JD043394 [[Journal Link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JD043394)
 
 MacDonald, C. G., Zurita-Gotor, P., Held, I. M., & Ming, Y. (2025) Convectively-coupled global Rossby modes in an idealized moist GCM. Journal of the Atmospheric Sciences, 82 (2), 319-341. [[Journal Link]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0081.1/JAS-D-24-0081.1.xml). 
 
