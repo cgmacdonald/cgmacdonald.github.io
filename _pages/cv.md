@@ -56,6 +56,6 @@ Research Experience
 Professional Experience
 ======
 
-Journal Reviewer - Geophysical Research Letters, Journal of the Atmospheric Sciences, Weather and Climate Dynamics, Journal of Climate
+Journal Reviewer - Geophysical Research Letters, Journal of the Atmospheric Sciences, Weather and Climate Dynamics, Journal of Climate, Quarterly Journal of the ROyal Meteorological Society
   
 
